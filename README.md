@@ -1,4 +1,4 @@
-# FramesSegmentationAlgorithms
+# Point cloud segmentation algorithms
 Repository contains files with two segmentation algorithms developed at the Warsaw University of Technology as part of an engineering thesis. The files are use as a plugin in the Frames software for point cloud processing.
 
 Frames is a software which uses custom data structures and functions as well as the Eigen library.
