@@ -12,5 +12,5 @@ The three methods contain:
 In this implementation two custom functions were added as these operations were more frequently used.
 
 # More info
-More information can be found in the engineering thesis entitled "Development of algorithm for cloud of point's segmentation based on orientation similarity".
-The thesis is available at the WUT.
+More information can be found in my engineering thesis entitled "Development of algorithm for cloud of point's segmentation based on orientation similarity" where I take a deep dive into how I designed, implemented and tested these algorithms.
+The thesis is available at the Warsaw University of Technology database.
